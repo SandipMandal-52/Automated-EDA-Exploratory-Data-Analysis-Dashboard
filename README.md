@@ -2,6 +2,9 @@
 
 An interactive web application built with Streamlit that automates the Exploratory Data Analysis process. This tool helps data scientists and analysts quickly analyze and visualize datasets with just a few clicks.
 
+<img width="1536" height="1024" alt="Dashboard Thumbnail" src="https://github.com/user-attachments/assets/3a319ab4-eb6a-4a22-ace2-58fa5d24c183" />
+
+
 ## 🌟 Features
 
 ### 📁 Data Import
